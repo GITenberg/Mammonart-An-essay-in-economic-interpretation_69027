@@ -1,5 +1,8 @@
 _repo: Mammonart-An-essay-in-economic-interpretation_69027
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69027-h/images/cover.jpg
 creator:
   author:
     agent_name: Sinclair, Upton
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/88
     wikipedia: https://en.wikipedia.org/wiki/Upton_Sinclair
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69027#Mammonart-An-essay-in-economic-interpretation
 gutenberg_issued: '2022-09-22'
 identifiers:
   gutenberg: '69027'
